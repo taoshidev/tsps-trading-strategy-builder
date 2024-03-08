@@ -17,8 +17,9 @@ against historical data on all Streams inside of TSPS.
 Currently, the concentration will be on BTCUSD, but that will expand soon. Please read the instructions below to get
 started.
 
-![img1.png](..%2F..%2FDownloads%2Fimg1.png)
-![img2.png](..%2F..%2FDownloads%2Fimg2.png)
+<img width="500" alt="img1" src="https://github.com/taoshidev/tsps-trading-strategy-builder/assets/68529441/362f6d25-b2a7-477b-90d9-c0187d7a0fd4">
+<img width="500" alt="img2" src="https://github.com/taoshidev/tsps-trading-strategy-builder/assets/68529441/a7d26d77-b7e0-4ffa-a8f9-aecbeb618338">
+
 
 
 ### Requirements to Download Historical Data
