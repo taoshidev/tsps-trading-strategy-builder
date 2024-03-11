@@ -56,7 +56,7 @@ python historical_data/get_historical_data.py
 
 This will generate a data file from binance called `historical_binance_data.csv` which will provide the actual closes that occurred that can be paired with the predictions to analyze results.
 
-### Analyzing Data
+## Analyzing Data
 
 The main logic outlined currently lives in the `run.py` script. The current setup takes the ongoing historical data
 dump from gcloud, along with the generated historical btc data, and transforms it to allow you to analyze the results
